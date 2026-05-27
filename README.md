@@ -4,12 +4,12 @@
 
 ## ✨ Key Features
 
-- 🔹 **Multi-modal Data Fusion**: Aligns 5-minute price bars with timestamped financial news headlines
-- 🔹 **FinBERT Integration**: Domain-specific language model fine-tuned for financial sentiment and entity extraction
-- 🔹 **Temporal Fusion Transformer (TFT)**: State-of-the-art interpretable architecture for multi-horizon forecasting
-- 🔹 **Attention-Based Interpretability**: Multi-level attention extraction (variable selection, temporal, token-level)
-- 🔹 **Criteria Dictionary Builder**: Automatically surfaces decision-driving phrases with directional impact statistics
-- 🔹 **Reproducible Experiments**: Chronological train/val/test splits with comprehensive ablation studies
+-   **Multi-modal Data Fusion**: Aligns 5-minute price bars with timestamped financial news headlines
+-   **FinBERT Integration**: Domain-specific language model fine-tuned for financial sentiment and entity extraction
+-   **Temporal Fusion Transformer (TFT)**: State-of-the-art interpretable architecture for multi-horizon forecasting
+-   **Attention-Based Interpretability**: Multi-level attention extraction (variable selection, temporal, token-level)
+-   **Criteria Dictionary Builder**: Automatically surfaces decision-driving phrases with directional impact statistics
+-   **Reproducible Experiments**: Chronological train/val/test splits with comprehensive ablation studies
 
 ---
 
