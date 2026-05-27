@@ -7,7 +7,7 @@ Package initialization for the commodity forecasting framework.
 
 __version__ = "0.1.0"
 __author__ = "Mohamad Yamen Al-Mohamad"
-__email__ = "author@email.com"
+__email__ = "yamenmohamad@gmail.com"
 
 from .utils.seed import set_seed
 from .utils.logger import setup_logger
