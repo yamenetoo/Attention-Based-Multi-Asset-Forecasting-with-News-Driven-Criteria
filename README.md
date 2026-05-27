@@ -46,10 +46,10 @@ python -m src.models.download_models --model finbert
 
 ```
 commodity-forecasting-attention/
-├── README.md                 # This file
-├── LICENSE                   # MIT License
+├── README.md                 
+├── LICENSE                   
 ├── requirements.txt          # Python dependencies
-├── environment.yml           # Conda environment (alternative)
+├── environment.yml           # Conda environment 
 │
 ├── src/                      # Source code
 │   ├── __init__.py
